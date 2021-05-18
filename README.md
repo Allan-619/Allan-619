@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allan-619
 - 👀 I’m interested in software developer...
-- 🌱 I’m currently learning software engineer..
+- 🌱 I’m currently learning web application developing..
 - 📫 How to reach me matheweasowallan@gmail.com
 
 <!---
